@@ -1,0 +1,11 @@
+nombre: jd
+apellido: disd
+edad: dfj
+domicilio: jsd
+clave: sdjs
+curp: sds
+fecha: ds
+seccion: ds
+registro: sd
+vigencia: sd
+sexo: ds
